@@ -65,4 +65,4 @@ pwm_red.stop()
 
 #To close the pins again 
 #if not, it will show a warning saying that the pin is already in use
-GPIO.cleanup
+GPIO.cleanup()
