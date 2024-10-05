@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
+
+<svg
+   version="1.1"
+   width="300"
+   height="200"
+   id="svg18"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <rect width="100%" height="100%" fill="white" />
+  <defs
+     id="defs18">
+    <rect
+       x="255.50243"
+       y="94.109192"
+       width="35.14278"
+       height="20.168821"
+       id="rect19" />
+  </defs>
+  <line
+     x1="69.495781"
+     y1="177.25349"
+     x2="229.49577"
+     y2="177.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line1" />
+  <line
+     x1="229.49577"
+     y1="147.25349"
+     x2="229.49577"
+     y2="177.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line2" />
+  <line
+     x1="229.49577"
+     y1="147.25349"
+     x2="229.49577"
+     y2="157.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line3" />
+  <line
+     x1="229.49577"
+     y1="117.25349"
+     x2="229.49577"
+     y2="147.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line4" />
+  <path
+     d="m 229.49578,139.2535 m -8,0 h 16 m -8,0 8,-15 h -16 l 8,15"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path4" />
+  <path
+     d="m 229.49578,137.2535 m 11,-2 8,8 m 1,1 -2,-4 -2,2 4,2 -2,-4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path5" />
+  <path
+     d="m 229.49578,137.2535 m 4,4 8,8 m 1,1 -2,-4 -2,2 4,2 -2,-4"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path6" />
+  <line
+     x1="69.495781"
+     y1="137.25349"
+     x2="69.495781"
+     y2="177.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line6" />
+  <line
+     x1="229.49577"
+     y1="67.253502"
+     x2="229.49577"
+     y2="117.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line7" />
+  <line
+     x1="179.49577"
+     y1="67.253502"
+     x2="229.49577"
+     y2="67.253502"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line8" />
+  <line
+     x1="129.49577"
+     y1="67.253502"
+     x2="134.49577"
+     y2="67.253502"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line9" />
+  <line
+     x1="174.49577"
+     y1="67.253502"
+     x2="179.49577"
+     y2="67.253502"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line10" />
+  <path
+     d="m 134.49578,67.253502 h 2 l 3,-7 6,14 6,-14 6,14 6,-14 6,14 3,-7 h 2"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="path10" />
+  <text
+     x="154.49577"
+     y="53.253506"
+     style="font-size:11px;font-family:Arial;text-anchor:middle"
+     dominant-baseline="baseline"
+     id="text10">330 Ω</text>
+  <line
+     x1="69.495781"
+     y1="67.253502"
+     x2="129.49577"
+     y2="67.253502"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line11" />
+  <line
+     x1="69.495781"
+     y1="67.253502"
+     x2="69.495781"
+     y2="127.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line12" />
+  <line
+     x1="69.495781"
+     y1="127.25349"
+     x2="69.495781"
+     y2="123.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line13" />
+  <line
+     x1="59.495781"
+     y1="123.25349"
+     x2="79.495781"
+     y2="123.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line14" />
+  <line
+     x1="64.495781"
+     y1="129.25349"
+     x2="74.495781"
+     y2="129.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line15" />
+  <line
+     x1="59.495781"
+     y1="135.25349"
+     x2="79.495781"
+     y2="135.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line16" />
+  <line
+     x1="64.495781"
+     y1="141.25349"
+     x2="74.495781"
+     y2="141.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line17" />
+  <line
+     x1="69.495781"
+     y1="141.25349"
+     x2="69.495781"
+     y2="137.25349"
+     style="stroke:#000000;stroke-width:2;stroke-linecap:square"
+     id="line18" />
+  <text
+     x="55.495781"
+     y="132.25349"
+     style="font-size:12px;font-family:Arial;text-anchor:end"
+     dominant-baseline="middle"
+     id="text18">+3.3V</text>
+  <text
+     xml:space="preserve"
+     id="text19"
+     style="white-space:pre;shape-inside:url(#rect19);display:inline;fill:#000000"
+     transform="translate(-3.3878857,28.28482)"><tspan
+       x="255.50195"
+       y="104.35738"
+       id="tspan1">LED</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:21.3333px;fill:#000000"
+     x="65.220901"
+     y="29.667295"
+     id="text21"><tspan
+       id="tspan21"
+       x="65.220901"
+       y="29.667295"
+       style="font-size:21.3333px">Led-resistor circuit</tspan></text>
+</svg>
