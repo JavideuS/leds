@@ -47,10 +47,14 @@ Puedes revisar el **video de prueba del circuito y del código** donde simulamos
   <img src="docs/led2.jpeg" width="45%" />
 </p>
 
-[![Demostracion](https://img.youtube.com/vi/5zdOd3RKU5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=5zdOd3RKU5o)
+[![Demostracion](https://img.youtube.com/vi/5zdOd3RKU5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=rTU-bP7Jfpg)
 
 ---
 
 Javier Gonzalez Villasmil
 
 Miguel Giraldo Chicaiza
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). You can view the full license text below or at https://creativecommons.org/licenses/by-sa/4.0/legalcode.
+
+Nota: Este código y vídeo es para un actividad de universidad del profesor Julio Vega.
